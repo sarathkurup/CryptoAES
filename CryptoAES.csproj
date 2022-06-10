@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Description>AES Encryption Decryption (Cryptography) Text or File</Description>
+    <Copyright>@2022</Copyright>
+    <PackageTags>AES; Encryption; Decryption; Cryptography</PackageTags>
+    <PackageReleaseNotes>AES Encryption Decryption (Cryptography) Text or File</PackageReleaseNotes>
+    <FileVersion>1.0.2.0</FileVersion>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+</Project>
